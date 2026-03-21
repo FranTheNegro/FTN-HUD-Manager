@@ -39,16 +39,16 @@
 ---
 
 ## 📸 Preview / Vista Previa
-<img width="1492" height="850" alt="1" src="https://github.com/user-attachments/assets/ba7a0a54-c917-4838-9a5c-9f68cdb35f55" />
-<img width="1492" height="850" alt="2" src="https://github.com/user-attachments/assets/cf6a3cf9-1618-411a-97f3-858afc36a530" />
-<img width="1492" height="850" alt="3" src="https://github.com/user-attachments/assets/50750654-7cd3-4fb2-8df1-7dca1b68b025" />
-<img width="1492" height="850" alt="4" src="https://github.com/user-attachments/assets/bbbf36e4-33ba-4113-bfff-88bcfe3e25a1" />
-<img width="1492" height="850" alt="5" src="https://github.com/user-attachments/assets/15beb498-0d45-4f5b-a1b3-08a4027e8a0b" />
-<img width="1492" height="850" alt="6" src="https://github.com/user-attachments/assets/378db7ba-cbc2-43b5-8882-ea72710a3554" />
-<img width="1492" height="850" alt="7" src="https://github.com/user-attachments/assets/cf20e281-7f8d-4f5e-9a7e-e1bbc708e6c5" />
-<img width="1492" height="850" alt="8" src="https://github.com/user-attachments/assets/192dbbb6-32df-485f-a33c-2bc76356dc9b" />
-<img width="1492" height="850" alt="9" src="https://github.com/user-attachments/assets/28f4f833-a2a8-4d8a-9614-99d0a219955b" />
-<img width="1492" height="850" alt="10" src="https://github.com/user-attachments/assets/a9eecbaa-1095-46d3-af24-b8ee4b303cac" />
+<img width="1492" height="850" alt="1" src="https://github.com/user-attachments/assets/56f0d130-7c3f-49bb-83e5-0b8e66f46dcf" />
+<img width="1492" height="850" alt="2" src="https://github.com/user-attachments/assets/ed41f3ae-d439-48e8-94e7-6c170623ead1" />
+<img width="1492" height="850" alt="3" src="https://github.com/user-attachments/assets/bdfa1fd0-e1b4-4940-85c2-376945953e1a" />
+<img width="1492" height="850" alt="4" src="https://github.com/user-attachments/assets/d61513ec-f9ff-46c9-a338-1e6403e7e75c" />
+<img width="1492" height="850" alt="5" src="https://github.com/user-attachments/assets/fcff49e6-71ed-4f62-91ec-05063f4424c1" />
+<img width="1492" height="850" alt="6" src="https://github.com/user-attachments/assets/4b89aec3-d133-4248-9d5a-f1e0ec8b174f" />
+<img width="1492" height="850" alt="7" src="https://github.com/user-attachments/assets/7fbd670e-8c74-43d5-bf7a-8a146119fda8" />
+<img width="1492" height="850" alt="8" src="https://github.com/user-attachments/assets/78c168c2-3af7-4046-a566-94971d83b5d5" />
+<img width="1492" height="850" alt="9" src="https://github.com/user-attachments/assets/c0581940-9005-4755-8f40-99d9fc3d1ec1" />
+<img width="1492" height="850" alt="10" src="https://github.com/user-attachments/assets/b868406d-ea6b-4ec0-a5d4-5ce5e3584843" />
 
 > **Note**: This repository serves as a professional showcase. Source code access is restricted.
 > **Nota**: Este repositorio funciona como una vitrina profesional. El acceso al código fuente está restringido.
