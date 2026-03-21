@@ -54,6 +54,14 @@
 > **Nota**: Este repositorio funciona como una vitrina profesional. El acceso al código fuente está restringido.
 
 ---
+---
+
+## 📜 Credits / Créditos
+**FTN HUD Manager** is a professional suite developed and enhanced by **Francisco Ponce (FTN)**. 
+* **Base Engine**: This project is built upon the foundational logic of **OpenHud** by John Timmermann.
+* **Professional Evolution**: This version features a completely revamped backend, high-performance UI components, and a custom hardware-based security layer (HWID).
+
+---
 
 ## 📞 Contact / Contacto
 * **Developer**: Francisco Ponce | FranTheNegro (FTN)
